@@ -5693,6 +5693,9 @@ textarea.form-control-lg {
   .modal-fullscreen-lg-down .modal-footer {
     border-radius: 0;
   }
+  .mobile{
+    display: none;
+  }
 }
 @media (max-width: 1199.98px) {
   .modal-fullscreen-xl-down {
@@ -11350,6 +11353,9 @@ p.lead {
   #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
     display: block;
   }
+  .desktop{
+    display: none;
+  }
 }
 .social-icons .social-icon {
   display: inline-flex;
@@ -11392,6 +11398,7 @@ section.resume-section .resume-section-content {
     min-height: 100vh;
   }
 }
+
 @media (min-width: 992px) {
   section.resume-section {
     padding-left: 3rem;
