@@ -5692,7 +5692,7 @@ textarea.form-control-lg {
     border-radius: 0;
   }
   .mobile{
-    display: none;
+    display: none !important;
   }
 }
 @media (max-width: 1199.98px) {
@@ -11352,7 +11352,7 @@ p.lead {
     display: block;
   }
   .desktop{
-    display: none;
+    display: none !important;
   }
 }
 .social-icons .social-icon {
