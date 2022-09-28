@@ -5691,9 +5691,6 @@ textarea.form-control-lg {
   .modal-fullscreen-lg-down .modal-footer {
     border-radius: 0;
   }
-  .mobile{
-    display: none !important;
-  }
 }
 @media (max-width: 1199.98px) {
   .modal-fullscreen-xl-down {
@@ -11350,9 +11347,6 @@ p.lead {
   }
   #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
     display: block;
-  }
-  .desktop{
-    display: none !important;
   }
 }
 .social-icons .social-icon {
